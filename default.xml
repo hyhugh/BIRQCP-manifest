@@ -39,5 +39,5 @@
     <linkfile dest="README.md" src="README.md"/>
     <linkfile dest="init" src="init.py"/>
   </project>
-  <project name="util_libs.git" path="projects/util_libs" revision="979afaf46f13e181cdd510b990fa0ed4857f6fc3" upstream="master"/>
+  <project name="util_libs.git" path="projects/util_libs" revision="0c900ae725cf381abdd471b278be481fd5100afe" upstream="master"/>
 </manifest>
