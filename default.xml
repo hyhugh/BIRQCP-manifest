@@ -32,7 +32,7 @@
   <project name="seL4.git" path="kernel" revision="9b6464621fd627e2800e11682aa7d1909190b6fe" upstream="master"/>
   <project name="BIRQCP.git" path="BIRQCP" upstream="master" remote="hyhugh"/>
   <project name="seL4_libs.git" path="projects/seL4_libs" revision="1f6de1ca0b14c709151d1f1f7b55489dc48b18bf" upstream="master"/>
-  <project name="seL4_tools.git" path="tools/seL4" revision="66c294e458da037b44adee73004e177b7e6ae6e6" upstream="master">
+  <project name="seL4_tools.git" path="tools/seL4" revision="2bed8207a3ff2cce1d545481607f300495d4791d" upstream="master">
     <linkfile dest="CMakeLists.txt" src="cmake-tool/default-CMakeLists.txt"/>
   </project>
   <project name="sel4-tutorials.git" path="projects/sel4-tutorials" remote="sel4proj" revision="20657f9a3665d87c1942470412083c8f249e0ac7" upstream="master">
