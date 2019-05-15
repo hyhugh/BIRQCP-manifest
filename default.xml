@@ -23,7 +23,7 @@
   </project>
   <project name="camkes-vm-linux.git" path="projects/camkes/vm-linux" remote="sel4proj" revision="673964443fe8d064e1708f876e1bb0dec4a25062" upstream="master"/>
   <project name="camkes-vm.git" path="projects/camkes/vm" revision="f88a5ca0762c59491b5b28aa697754fbc626bc2c" upstream="master"/>
-  <project name="capdl.git" path="projects/camkes/capdl" revision="f3577815b393f76d72fc151a6766492073a6c8ca" upstream="master"/>
+  <project name="capdl.git" path="projects/camkes/capdl" revision="f146343ccba5dc8f268a86565f2199a5b196102b" upstream="master"/>
   <project name="global-components.git" path="projects/camkes/global-components" remote="sel4proj" revision="49863ed88615f2b65aef24f1fb9b9ead3c95a72f" upstream="master"/>
   <project name="musllibc.git" path="projects/musllibc" revision="9e288a83f17de80e54af87852674d70f59d6beee" upstream="sel4"/>
   <project name="polly" path="tools/polly" remote="polly" revision="22df717465341ab35f9edcbba8e386a76e0f3d95" upstream="master"/>
@@ -32,7 +32,7 @@
   <project name="seL4.git" path="kernel" revision="9b6464621fd627e2800e11682aa7d1909190b6fe" upstream="master"/>
   <project name="BIRQCP.git" path="BIRQCP" upstream="master" remote="hyhugh"/>
   <project name="seL4_libs.git" path="projects/seL4_libs" revision="1f6de1ca0b14c709151d1f1f7b55489dc48b18bf" upstream="master"/>
-  <project name="seL4_tools.git" path="tools/seL4" revision="2bed8207a3ff2cce1d545481607f300495d4791d" upstream="master">
+  <project name="seL4_tools.git" path="tools/seL4" revision="c920b77e9321de2133aa694a0b58d4acfd88cce9" upstream="master">
     <linkfile dest="CMakeLists.txt" src="cmake-tool/default-CMakeLists.txt"/>
   </project>
   <project name="sel4-tutorials.git" path="projects/sel4-tutorials" remote="sel4proj" revision="20657f9a3665d87c1942470412083c8f249e0ac7" upstream="master">
